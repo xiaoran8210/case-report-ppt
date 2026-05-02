@@ -1,0 +1,4 @@
+interface:
+  display_name: "Case Report PPT"
+  short_description: "Build surgical case-report HTML web decks from mixed case folders with guizang."
+  default_prompt: "Use $case-report-ppt to build a surgical case report deck from a case folder with the integrated guizang web-PPT engine, preserving the built-in themes, layouts, WebGL background, and direct-open single-file HTML workflow."
