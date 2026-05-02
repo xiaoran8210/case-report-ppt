@@ -1,0 +1,10 @@
+# Local generated artifacts
+ppt/
+output/
+dist/
+
+# macOS
+.DS_Store
+
+# Optional local test materials
+sample-cases/
